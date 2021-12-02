@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fragazzi
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Master in Computer Science (Data Engigneering curriculum)
+- 🌱 I’m currently a master student in Computer Engigneering (Data Engigneering curriculum) at UNIMORE (MO)
 
 
 <!---
