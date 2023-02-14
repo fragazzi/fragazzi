@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fragazzi
+- 👋 Hi, I’m Francesco Ragazzi
 - 👀 I’m interested in Deep Learning and Computer Vision
-- 🌱 I’m currently a master student in Computer Engigneering (AI and Data Engigneering curriculum) at UNIMORE (MO)
+- 🌱 I’m an Italian master student in Computer Engigneering (AI and Data Engigneering curriculum) at UNIMORE (Modena)
 
 
 <!---
